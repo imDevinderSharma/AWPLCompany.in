@@ -304,6 +304,7 @@ body.menu-open {
 .post-card .post-image {
     height: 200px;
     overflow: hidden;
+    position: relative;
 }
 
 .post-card .post-image img {
@@ -311,6 +312,11 @@ body.menu-open {
     height: 100%;
     object-fit: cover;
     transition: transform 0.5s ease;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .post-card:hover .post-image img {
