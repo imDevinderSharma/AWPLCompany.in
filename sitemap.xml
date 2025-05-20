@@ -3,19 +3,19 @@
     <!-- Main Pages -->
     <url>
         <loc>https://awplcompany.in/index.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://awplcompany.in/html/about.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://awplcompany.in/html/contact.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -23,7 +23,7 @@
     <!-- Blog/Content Pages -->
     <url>
         <loc>https://awplcompany.in/awpl-company-details-in-hindi.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -31,25 +31,25 @@
     <!-- Legal Pages -->
     <url>
         <loc>https://awplcompany.in/html/privacy-policy.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://awplcompany.in/html/terms-of-service.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://awplcompany.in/html/disclaimer.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://awplcompany.in/html/cookie-policy.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -57,7 +57,7 @@
     <!-- Navigation -->
     <url>
         <loc>https://awplcompany.in/sitemap.html</loc>
-        <lastmod>2024-05-19</lastmod>
+        <lastmod>2025-05-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
