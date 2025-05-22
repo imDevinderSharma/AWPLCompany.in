@@ -3,19 +3,20 @@ document.addEventListener('DOMContentLoaded', function() {
     let isScrolling;
     const header = document.querySelector('header');
     
-    // Scroll effect for header
+    // Scroll effect for header - optimized with requestAnimationFrame
+    let ticking = false;
     window.addEventListener('scroll', function() {
-        if (window.scrollY > 10) {
-            header.classList.add('scrolled');
-        } else {
-            header.classList.remove('scrolled');
+        if (!ticking) {
+            window.requestAnimationFrame(function() {
+                if (window.scrollY > 10) {
+                    header.classList.add('scrolled');
+                } else {
+                    header.classList.remove('scrolled');
+                }
+                ticking = false;
+            });
+            ticking = true;
         }
-        
-        // Throttle intensive operations during scroll
-        window.clearTimeout(isScrolling);
-        isScrolling = setTimeout(function() {
-            // Perform any intensive operations after scrolling stops
-        }, 100);
     });
 
     // Responsive Menu Toggle with enhanced animations
@@ -30,27 +31,22 @@ document.addEventListener('DOMContentLoaded', function() {
     if (nav && menu) {
         nav.insertBefore(menuToggle, menu);
         
-        // Add animation delay to menu items
-        const menuItems = menu.querySelectorAll('li');
-        menuItems.forEach((item, index) => {
-            item.style.transitionDelay = `${0.05 * index}s`;
-        });
-        
+        // Optimize menu interactions
         menuToggle.addEventListener('click', function(e) {
             e.stopPropagation(); // Prevent event bubbling
             this.classList.toggle('active');
             menu.classList.toggle('active');
-            document.body.classList.toggle('menu-open'); // Add class to body to prevent scrolling when menu is open
+            document.body.classList.toggle('menu-open');
         });
         
-        // Close menu when clicking outside
+        // Close menu when clicking outside - delegated event handler for better performance
         document.addEventListener('click', function(event) {
-            if (!event.target.closest('.menu') && !event.target.closest('.menu-toggle')) {
-                if (menu.classList.contains('active')) {
-                    menu.classList.remove('active');
-                    menuToggle.classList.remove('active');
-                    document.body.classList.remove('menu-open');
-                }
+            if (menu.classList.contains('active') && 
+                !event.target.closest('.menu') && 
+                !event.target.closest('.menu-toggle')) {
+                menu.classList.remove('active');
+                menuToggle.classList.remove('active');
+                document.body.classList.remove('menu-open');
             }
         });
         
@@ -63,19 +59,16 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
         
-        // Close menu when a menu item is clicked (mobile)
-        const menuLinks = menu.querySelectorAll('a');
-        menuLinks.forEach(link => {
-            link.addEventListener('click', function() {
-                if (window.innerWidth <= 768) {
-                    menu.classList.remove('active');
-                    menuToggle.classList.remove('active');
-                    document.body.classList.remove('menu-open');
-                }
-            });
+        // Event delegation for menu clicks - more efficient than multiple listeners
+        menu.addEventListener('click', function(e) {
+            if (e.target.tagName === 'A' && window.innerWidth <= 768) {
+                menu.classList.remove('active');
+                menuToggle.classList.remove('active');
+                document.body.classList.remove('menu-open');
+            }
         });
         
-        // Handle resize events - debounced for performance
+        // Debounced resize handler
         let resizeTimer;
         window.addEventListener('resize', function() {
             clearTimeout(resizeTimer);
@@ -89,157 +82,161 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // FAQ Accordion functionality with smooth animations
-    const faqItems = document.querySelectorAll('.faq-item');
-    
-    faqItems.forEach(item => {
-        const question = item.querySelector('h3');
-        const answer = item.querySelector('p');
-        
-        // Initially hide answers
-        if (answer) {
-            answer.style.display = 'none';
-            
-            // Add click event to questions
-            question.addEventListener('click', () => {
-                // Toggle current answer
-                const isOpen = answer.style.display === 'block';
-                
-                // Toggle plus/minus icon
-                question.classList.toggle('active', !isOpen);
-                
-                // Slide toggle animation
-                if (isOpen) {
-                    answer.style.maxHeight = answer.scrollHeight + 'px';
-                    setTimeout(() => {
-                        answer.style.maxHeight = '0px';
-                        setTimeout(() => {
-                            answer.style.display = 'none';
-                        }, 300);
-                    }, 10);
-                } else {
-                    answer.style.display = 'block';
-                    answer.style.maxHeight = '0px';
-                    setTimeout(() => {
-                        answer.style.maxHeight = answer.scrollHeight + 'px';
-                    }, 10);
-                }
-                
-                // Close other answers
-                faqItems.forEach(otherItem => {
-                    if (otherItem !== item) {
-                        const otherQuestion = otherItem.querySelector('h3');
-                        const otherAnswer = otherItem.querySelector('p');
-                        
-                        if (otherAnswer && otherAnswer.style.display === 'block') {
-                            otherQuestion.classList.remove('active');
-                            otherAnswer.style.maxHeight = otherAnswer.scrollHeight + 'px';
-                            setTimeout(() => {
-                                otherAnswer.style.maxHeight = '0px';
-                                setTimeout(() => {
-                                    otherAnswer.style.display = 'none';
-                                }, 300);
-                            }, 10);
-                        }
-                    }
-                });
-            });
-        }
-    });
-    
-    // Image lazy loading with Intersection Observer
+    // Enhanced image lazy loading with Intersection Observer
     if ('IntersectionObserver' in window) {
         const imageObserver = new IntersectionObserver((entries, observer) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
                     const image = entry.target;
-                    // Only replace src if we have a data-src attribute
                     if (image.dataset.src) {
-                        image.src = image.dataset.src;
-                        image.removeAttribute('data-src');
-                        image.classList.add('loaded');
+                        // Create a new image to preload
+                        const img = new Image();
+                        
+                        // Set up load event before setting src
+                        img.onload = function() {
+                            // Once image is loaded, update the src and add loaded class
+                            image.src = image.dataset.src;
+                            image.classList.add('loaded');
+                            image.removeAttribute('data-src');
+                        };
+                        
+                        // Set the src to begin loading
+                        img.src = image.dataset.src;
                     }
                     observer.unobserve(image);
                 }
             });
         }, {
-            rootMargin: '0px 0px 200px 0px' // Start loading images before they appear in viewport
+            rootMargin: '200px 0px', // Start loading images before they appear in viewport
+            threshold: 0.01 // Trigger when even 1% of the element is visible
         });
         
-        // Setup lazy loading for all images on the page
+        // Apply lazy loading to all images with data-src
         document.querySelectorAll('img[data-src]').forEach(img => {
-            imageObserver.observe(img);
+            // Only observe images that aren't already loaded
+            if (!img.classList.contains('loaded')) {
+                imageObserver.observe(img);
+            }
+        });
+    } else {
+        // Fallback for browsers without IntersectionObserver
+        document.querySelectorAll('img[data-src]').forEach(img => {
+            img.src = img.dataset.src;
+            img.classList.add('loaded');
         });
     }
     
-    // Smooth scrolling for anchor links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function(e) {
-            const targetId = this.getAttribute('href');
-            
-            if (targetId === '#') return;
-            
-            e.preventDefault();
-            
-            const targetElement = document.querySelector(targetId);
-            
-            if (targetElement) {
-                window.scrollTo({
-                    top: targetElement.offsetTop - 80,
-                    behavior: 'smooth'
-                });
-            }
-        });
-    });
-    
-    // Share functionality
-    const shareButtons = document.querySelectorAll('.social-share a');
-    
-    shareButtons.forEach(button => {
-        button.addEventListener('click', function(e) {
-            e.preventDefault();
-            
-            const postTitle = document.querySelector('.post-header h1')?.textContent || document.title;
-            const postUrl = window.location.href;
-            
-            let shareUrl;
-            
-            if (this.classList.contains('facebook')) {
-                shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(postUrl)}`;
-            } else if (this.classList.contains('twitter')) {
-                shareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(postTitle)}&url=${encodeURIComponent(postUrl)}`;
-            } else if (this.classList.contains('linkedin')) {
-                shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(postUrl)}`;
-            } else if (this.classList.contains('whatsapp')) {
-                shareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(postTitle + ' ' + postUrl)}`;
-            }
-            
-            if (shareUrl) {
-                window.open(shareUrl, '_blank', 'width=600,height=400');
-            }
-        });
-    });
-    
-    // Add animation to elements when they come into view
+    // Add animation to elements when they come into view - optimized for performance
     if ('IntersectionObserver' in window) {
-        const animatedElements = document.querySelectorAll('.animate-on-scroll');
-        
         const animationObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
-                    entry.target.classList.add('animated');
+                    // Use requestAnimationFrame to optimize UI updates
+                    requestAnimationFrame(() => {
+                        entry.target.classList.add('animated');
+                    });
                     animationObserver.unobserve(entry.target);
                 }
             });
         }, {
+            rootMargin: '0px',
             threshold: 0.1
         });
         
-        animatedElements.forEach(element => {
+        document.querySelectorAll('.animate-on-scroll').forEach(element => {
             animationObserver.observe(element);
+        });
+    } else {
+        // Fallback for browsers without IntersectionObserver
+        document.querySelectorAll('.animate-on-scroll').forEach(element => {
+            element.classList.add('animated');
         });
     }
 });
+
+// Load non-critical resources after page load
+window.addEventListener('load', function() {
+    // Preload remaining resources
+    setTimeout(() => {
+        // Load any deferred scripts or resources here
+        
+        // Initialize any non-critical features
+        initializeNonCriticalFeatures();
+    }, 100); // Small delay to ensure main content is interactive first
+});
+
+// Non-critical features initialization
+function initializeNonCriticalFeatures() {
+    // FAQ Accordion functionality - moved to non-critical
+    const faqItems = document.querySelectorAll('.faq-item');
+    
+    if (faqItems.length > 0) {
+        faqItems.forEach(item => {
+            const question = item.querySelector('h3');
+            const answer = item.querySelector('p');
+            
+            if (answer && question) {
+                answer.style.display = 'none';
+                
+                question.addEventListener('click', () => {
+                    const isOpen = answer.style.display === 'block';
+                    question.classList.toggle('active', !isOpen);
+                    
+                    if (isOpen) {
+                        answer.style.display = 'none';
+                    } else {
+                        answer.style.display = 'block';
+                    }
+                    
+                    // Close other answers
+                    faqItems.forEach(otherItem => {
+                        if (otherItem !== item) {
+                            const otherQuestion = otherItem.querySelector('h3');
+                            const otherAnswer = otherItem.querySelector('p');
+                            
+                            if (otherAnswer && otherAnswer.style.display === 'block') {
+                                otherQuestion.classList.remove('active');
+                                otherAnswer.style.display = 'none';
+                            }
+                        }
+                    });
+                });
+            }
+        });
+    }
+    
+    // Initialize share buttons if they exist
+    const shareButtons = document.querySelectorAll('.social-share a');
+    
+    if (shareButtons.length > 0) {
+        shareButtons.forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                const postTitle = document.querySelector('.post-header h1')?.textContent || document.title;
+                const postUrl = window.location.href;
+                
+                let shareUrl;
+                
+                if (this.classList.contains('facebook')) {
+                    shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(postUrl)}`;
+                } else if (this.classList.contains('twitter')) {
+                    shareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(postTitle)}&url=${encodeURIComponent(postUrl)}`;
+                } else if (this.classList.contains('linkedin')) {
+                    shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(postUrl)}`;
+                } else if (this.classList.contains('whatsapp')) {
+                    shareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(postTitle + ' ' + postUrl)}`;
+                } else if (this.classList.contains('telegram')) {
+                    shareUrl = `https://t.me/share/url?url=${encodeURIComponent(postUrl)}&text=${encodeURIComponent(postTitle)}`;
+                }
+                
+                if (shareUrl) {
+                    window.open(shareUrl, '_blank', 'width=600,height=400');
+                }
+            });
+        });
+    }
+}
 
 // Preload critical resources
 window.addEventListener('load', function() {

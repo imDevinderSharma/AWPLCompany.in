@@ -1213,4 +1213,195 @@ input[type="submit"]:hover:after {
     .category, .card {
         padding: 15px;
     }
+}
+
+/* Modern Posts Grid Styling */
+.modern-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 25px;
+    contain: layout style;
+}
+
+.modern-post-card {
+    background-color: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.07);
+    transition: transform 0.25s ease-out, box-shadow 0.25s ease-out;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+    will-change: transform;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+}
+
+.modern-post-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.modern-post-content {
+    padding: 22px 25px 18px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.post-category {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--primary-color);
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+    border-radius: 20px;
+    padding: 4px 10px;
+    background-color: rgba(48, 194, 132, 0.1);
+    align-self: flex-start;
+}
+
+.modern-post-card h3 {
+    font-size: 20px;
+    line-height: 1.4;
+    margin-bottom: 12px;
+    transition: color 0.2s ease;
+}
+
+.modern-post-card h3 a {
+    color: var(--text-color);
+    text-decoration: none;
+    display: block;
+    transition: color 0.2s ease;
+}
+
+.modern-post-card h3 a:hover {
+    color: var(--primary-color);
+}
+
+.modern-post-card p {
+    font-size: 14px;
+    line-height: 1.65;
+    color: #666;
+    margin-bottom: 0;
+}
+
+.modern-post-footer {
+    padding: 15px 25px;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fbfbfb;
+}
+
+.post-date {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    color: #777;
+    font-size: 13px;
+}
+
+.date-day {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--secondary-color);
+}
+
+.date-month {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.date-year {
+    font-size: 13px;
+}
+
+.read-more a {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--primary-color);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.2s ease;
+}
+
+.read-more a i {
+    font-size: 11px;
+    transition: transform 0.2s ease;
+}
+
+.read-more a:hover {
+    color: var(--secondary-color);
+}
+
+.read-more a:hover i {
+    transform: translateX(3px);
+}
+
+/* Responsive adjustments for modern posts */
+@media (max-width: 768px) {
+    .modern-posts-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .modern-posts-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .modern-post-card h3 {
+        font-size: 18px;
+    }
+    
+    .modern-post-content {
+        padding: 18px 20px 15px;
+    }
+    
+    .modern-post-footer {
+        padding: 12px 20px;
+    }
+}
+
+/* Optimize animations for performance */
+@media (prefers-reduced-motion: no-preference) {
+    .modern-post-card {
+        /* Reduce animation complexity */
+        transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
+    }
+    
+    .read-more a i {
+        /* Simplify transition */
+        transition: transform 0.2s ease;
+    }
+}
+
+/* Complete disabling of animations for users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .modern-post-card,
+    .read-more a i,
+    .modern-post-card:hover {
+        /* Disable all transitions and animations */
+        transition: none !important;
+        transform: none !important;
+        animation: none !important;
+    }
+}
+
+/* Optimize image loading */
+img.img-placeholder {
+    /* Prevent layout shifts during loading */
+    min-height: 1px;
+    /* Use content-visibility to defer off-screen images */
+    content-visibility: auto;
 } 
