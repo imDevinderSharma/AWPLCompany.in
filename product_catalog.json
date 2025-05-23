@@ -1,0 +1,4349 @@
+{
+  "metadata": {
+    "title": "AWPL Company Product Catalog",
+    "description": "Complete product catalog with categories, pricing, and product information",
+    "total_products": 277,
+    "categories": [
+      "OTHERS",
+      "ORAL CARE",
+      "JEEVEDA SPICES",
+      "SNISS FRAGRANCES",
+      "HOME CARE",
+      "WELLNESS PRODUCT",
+      "BABY CARE",
+      "SNISS ELITE",
+      "APPARELS",
+      "VETERINARY",
+      "AGRICULTURE PRODUCTS",
+      "SNISS COSMETIC",
+      "HAIR CARE",
+      "SNISS HERBAL",
+      "BEAUTY & PERSONAL CARE (MAKEUP MANTRAS)",
+      "SPICES (ECO AROGYAM)",
+      "FOOD PRODUCT",
+      "WELLROOT"
+    ],
+    "total_categories": 18
+  },
+  "categories": {
+    "OTHERS": [
+      {
+        "productName": "AWPL DIARY 2025",
+        "pricing": {
+          "mrp": 299.0,
+          "dpPrice": 299.0,
+          "sp": 0.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/others/awpl-diary-2025/",
+          "image": "./9_files/_T2131_839622.jpg",
+          "sourceFile": "9.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "ORAL CARE": [
+      {
+        "productName": "DENTODOC CREAM",
+        "pricing": {
+          "mrp": 261.0,
+          "dpPrice": 217.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/oral-care/dentodoc-cream/",
+          "image": "./5_files/_T501.jpeg",
+          "sourceFile": "5.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "JEEVEDA SPICES": [
+      {
+        "productName": "JEEVEDA CHHOLE CHANA MASALA",
+        "pricing": {
+          "mrp": 139.0,
+          "dpPrice": 99.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-chhole-chana-masala/",
+          "image": "./15_files/_T3241_915284.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA CHICKEN MASALA",
+        "pricing": {
+          "mrp": 147.0,
+          "dpPrice": 105.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-chicken-masala/",
+          "image": "./15_files/_T3251_817172.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA DAL MAKHANI MASALA",
+        "pricing": {
+          "mrp": 161.0,
+          "dpPrice": 115.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-dal-makhani-masala/",
+          "image": "./15_files/_T3261_081711.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA FISH MASALA",
+        "pricing": {
+          "mrp": 153.0,
+          "dpPrice": 109.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-fish-masala/",
+          "image": "./15_files/_T3271_393974.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA GARAM MASALA",
+        "pricing": {
+          "mrp": 167.0,
+          "dpPrice": 119.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-garam-masala/",
+          "image": "./15_files/_T3281_512856.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA KITCHEN KING MASALA",
+        "pricing": {
+          "mrp": 139.0,
+          "dpPrice": 99.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-kitchen-king-masala/",
+          "image": "./15_files/_T3291_925509.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA MUTTON MASALA",
+        "pricing": {
+          "mrp": 167.0,
+          "dpPrice": 119.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-mutton-masala/",
+          "image": "./15_files/_T3301_394602.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA PAV BHAJI MASALA",
+        "pricing": {
+          "mrp": 139.0,
+          "dpPrice": 99.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-pav-bhaji-masala/",
+          "image": "./15_files/_T3311_341372.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA RAJMA MASALA",
+        "pricing": {
+          "mrp": 139.0,
+          "dpPrice": 99.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-rajma-masala/",
+          "image": "./15_files/_T3321_462283.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA SHAHI PANEER MASALA",
+        "pricing": {
+          "mrp": 153.0,
+          "dpPrice": 109.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-shahi-paneer-masala/",
+          "image": "./15_files/_T3331_465249.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA SAMBHAR MASALA",
+        "pricing": {
+          "mrp": 125.0,
+          "dpPrice": 89.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-sambhar-masala/",
+          "image": "./15_files/_T3341_944957.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA TANDOORI CHICKEN MASALA",
+        "pricing": {
+          "mrp": 139.0,
+          "dpPrice": 99.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-tandoori-chicken-masala/",
+          "image": "./15_files/_T3351_940768.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA CAROM SEEDS – AJWAIN",
+        "pricing": {
+          "mrp": 83.0,
+          "dpPrice": 59.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-carom-seeds-%E2%80%93-ajwain/",
+          "image": "./15_files/_T3371_204865.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA BLACK PEPPER – KALI MIRCHI",
+        "pricing": {
+          "mrp": 139.0,
+          "dpPrice": 99.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-black-pepper-%E2%80%93-kali-mirchi/",
+          "image": "./15_files/_T3381_052811.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA BLACK CARDAMOM – BADI ELAIC",
+        "pricing": {
+          "mrp": 321.0,
+          "dpPrice": 229.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-black-cardamom-%E2%80%93-badi-elaic/",
+          "image": "./15_files/_T3391_014682.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA CUMIN SEEDS JEERA",
+        "pricing": {
+          "mrp": 125.0,
+          "dpPrice": 89.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-cumin-seeds-jeera/",
+          "image": "./15_files/_T3411_705877.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA NIGELLA SEEDS – KALONJI",
+        "pricing": {
+          "mrp": 77.0,
+          "dpPrice": 55.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-nigella-seeds-%E2%80%93-kalonji/",
+          "image": "./15_files/_T3421_029218.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA FENUGREEK SEEDS –METHI DANA",
+        "pricing": {
+          "mrp": 69.0,
+          "dpPrice": 49.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-fenugreek-seeds-%E2%80%93methi-dana/",
+          "image": "./15_files/_T3431_814430.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA MUSTARD SEEDS – RAI",
+        "pricing": {
+          "mrp": 55.0,
+          "dpPrice": 39.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-mustard-seeds-%E2%80%93-rai/",
+          "image": "./15_files/_T3441_625713.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JEEVEDA CLOVE – LAUNG",
+        "pricing": {
+          "mrp": 167.0,
+          "dpPrice": 119.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/jeeveda-spices/jeeveda-clove-%E2%80%93-laung/",
+          "image": "./15_files/_T3451_023542.jpg",
+          "sourceFile": "15.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "SNISS FRAGRANCES": [
+      {
+        "productName": "ORELLA PERFUME",
+        "pricing": {
+          "mrp": 1073.0,
+          "dpPrice": 715.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-fragrances/orella-perfume/",
+          "image": "./14_files/_T2761_055599.jpg",
+          "sourceFile": "14.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "NEBEL PERFUME",
+        "pricing": {
+          "mrp": 1073.0,
+          "dpPrice": 715.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-fragrances/nebel-perfume/",
+          "image": "./14_files/_T2771_745508.jpg",
+          "sourceFile": "14.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "HOME CARE": [
+      {
+        "productName": "BATHVEDA FRESH LIME BAR",
+        "pricing": {
+          "mrp": 264.0,
+          "dpPrice": 189.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-fresh-lime-bar/",
+          "image": "./4_files/_T2051_934836.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BATHVEDA MYSORE SANDAL SOAP",
+        "pricing": {
+          "mrp": 294.0,
+          "dpPrice": 210.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-mysore-sandal-soap/",
+          "image": "./4_files/_T2061_257516.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BATHVEDA NEEM TULSI BAR",
+        "pricing": {
+          "mrp": 243.0,
+          "dpPrice": 174.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-neem-tulsi-bar-/",
+          "image": "./4_files/_T2411_980575.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BATHVEDA BEAUTY CREAM BAR",
+        "pricing": {
+          "mrp": 243.0,
+          "dpPrice": 174.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-beauty-cream-bar-/",
+          "image": "./4_files/_T2361_853180.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BATHVEDA GOAT MILK BAR",
+        "pricing": {
+          "mrp": 432.0,
+          "dpPrice": 309.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-goat-milk-bar-/",
+          "image": "./4_files/_T2371_553430.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BATHVEDA GLYCERIN NATURAL OIL BAR",
+        "pricing": {
+          "mrp": 243.0,
+          "dpPrice": 174.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-glycerin-natural-oil-bar/",
+          "image": "./4_files/_T2351_376902.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIMFRESH LIQUID DISH WASH",
+        "pricing": {
+          "mrp": 133.0,
+          "dpPrice": 95.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/limfresh-liquid-dish-wash-/",
+          "image": "./4_files/_T2341_131681.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "TOSHINE LIQUID WASH",
+        "pricing": {
+          "mrp": 271.0,
+          "dpPrice": 193.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/toshine-liquid-wash-/",
+          "image": "./4_files/_T2381_263982.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "TOSHINE DETERGENT POWDER",
+        "pricing": {
+          "mrp": 198.0,
+          "dpPrice": 141.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/toshine-detergent-powder/",
+          "image": "./4_files/_T2391_291696.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EASY SWEEP SURFACE CLEANER",
+        "pricing": {
+          "mrp": 133.0,
+          "dpPrice": 95.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/easy-sweep-surface-cleaner-/",
+          "image": "./4_files/_T2401_594066.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "POWER FLUSH TOILET CLEANER",
+        "pricing": {
+          "mrp": 125.0,
+          "dpPrice": 89.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/power-flush-toilet-cleaner-/",
+          "image": "./4_files/_T2331_452729.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "TOSHINE WINTERWEAR LIQUID WASH",
+        "pricing": {
+          "mrp": 266.0,
+          "dpPrice": 190.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/toshine-winterwear-liquid-wash-/",
+          "image": "./4_files/_T2521_423587.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "TOSHINE DETERGENT BAR",
+        "pricing": {
+          "mrp": 138.0,
+          "dpPrice": 98.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/toshine-detergent-bar/",
+          "image": "./4_files/_T2581_905038.jpeg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIMFRESH DISH WASH BAR",
+        "pricing": {
+          "mrp": 129.0,
+          "dpPrice": 92.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/limfresh-dish-wash-bar/",
+          "image": "./4_files/_T2591_723745.jpg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ROOM FRESHNER (MUSK)",
+        "pricing": {
+          "mrp": 325.0,
+          "dpPrice": 232.0,
+          "sp": 0.75,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/room-freshner-musk-/",
+          "image": "./4_files/_T2641_395459.jpeg",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BATHVEDA BEAUTY CREAM BAR",
+        "pricing": {
+          "mrp": 210.0,
+          "dpPrice": 167.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/home-care/bathveda-beauty-cream-bar/",
+          "image": "./4_files/_T1041.JPG",
+          "sourceFile": "4.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "WELLNESS PRODUCT": [
+      {
+        "productName": "EXE HERBAL TEA",
+        "pricing": {
+          "mrp": 444.0,
+          "dpPrice": 370.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-herbal-tea/",
+          "image": "./18_files/_T291.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE PANCH TULSI OIL",
+        "pricing": {
+          "mrp": 431.0,
+          "dpPrice": 360.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-panch-tulsi-oil/",
+          "image": "./18_files/_T331.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ADIDOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 474.0,
+          "dpPrice": 395.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/adidoc-pravahi-kwath/",
+          "image": "./18_files/_T551.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE TRIPHALA PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 478.0,
+          "dpPrice": 399.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-triphala-pravahi-kwath/",
+          "image": "./18_files/_T531.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "PRODOC POWDER",
+        "pricing": {
+          "mrp": 641.0,
+          "dpPrice": 534.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/prodoc-powder/",
+          "image": "./18_files/_T301.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS EXE B-TON OINT",
+        "pricing": {
+          "mrp": 714.0,
+          "dpPrice": 595.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/makeup-mantras-exe-b-ton-oint/",
+          "image": "./18_files/_T541.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "KIDGDOC RAS",
+        "pricing": {
+          "mrp": 847.0,
+          "dpPrice": 706.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/kidgdoc-ras/",
+          "image": "./18_files/_T251.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE ALOEVERA SYRUP",
+        "pricing": {
+          "mrp": 1013.0,
+          "dpPrice": 844.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-aloevera-syrup/",
+          "image": "./18_files/_T491.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALRGYDOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 1339.0,
+          "dpPrice": 1116.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/alrgydoc-pravahi-kwath/",
+          "image": "./18_files/_T581.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EYEDOC DROP",
+        "pricing": {
+          "mrp": 1394.0,
+          "dpPrice": 1162.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/eyedoc-drop/",
+          "image": "./18_files/_T1091.JPG",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "BRAINDOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 1419.0,
+          "dpPrice": 1183.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/braindoc-pravahi-kwath/",
+          "image": "./18_files/_T521.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "GYNEDOC RAS",
+        "pricing": {
+          "mrp": 1539.0,
+          "dpPrice": 1282.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/gynedoc-ras/",
+          "image": "./18_files/_T461.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "DIABODOC RAS",
+        "pricing": {
+          "mrp": 1558.0,
+          "dpPrice": 1298.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/diabodoc-ras/",
+          "image": "./18_files/_T451.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIVODOC RAS",
+        "pricing": {
+          "mrp": 1594.0,
+          "dpPrice": 1328.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/livodoc-ras/",
+          "image": "./18_files/_T471.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "IMMUNODOC RAS",
+        "pricing": {
+          "mrp": 2212.0,
+          "dpPrice": 1844.0,
+          "sp": 12.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/immunodoc-ras/",
+          "image": "./18_files/_T441.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "THUNDERBLAST RAS",
+        "pricing": {
+          "mrp": 2398.0,
+          "dpPrice": 1998.0,
+          "sp": 13.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/thunderblast-ras/",
+          "image": "./18_files/_T411.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ORTHODOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 2400.0,
+          "dpPrice": 2000.0,
+          "sp": 13.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/orthodoc-pravahi-kwath/",
+          "image": "./18_files/_T401.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "CARDIODOC RAS",
+        "pricing": {
+          "mrp": 2404.0,
+          "dpPrice": 2004.0,
+          "sp": 13.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/cardiodoc-ras/",
+          "image": "./18_files/_T421.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "PILODOC RAS",
+        "pricing": {
+          "mrp": 2564.0,
+          "dpPrice": 2137.0,
+          "sp": 13.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/pilodoc-ras/",
+          "image": "./18_files/_T371.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "CHLORODOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 2583.0,
+          "dpPrice": 2153.0,
+          "sp": 13.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/chlorodoc-pravahi-kwath/",
+          "image": "./18_files/_T391.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "THYDOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 2598.0,
+          "dpPrice": 2165.0,
+          "sp": 13.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/thydoc-pravahi-kwath/",
+          "image": "./18_files/_T381.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "STONDOC RAS",
+        "pricing": {
+          "mrp": 2675.0,
+          "dpPrice": 2229.0,
+          "sp": 14.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/stondoc-ras/",
+          "image": "./18_files/_T361.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "OBEODOC RAS",
+        "pricing": {
+          "mrp": 2711.0,
+          "dpPrice": 2259.0,
+          "sp": 15.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/obeodoc-ras/",
+          "image": "./18_files/_T351.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE PUNARNAVA KWATH",
+        "pricing": {
+          "mrp": 1221.0,
+          "dpPrice": 989.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-punarnava-kwath/",
+          "image": "./18_files/_T2021_846069.jpeg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS CHYAWANPRASH - AVALEHA",
+        "pricing": {
+          "mrp": 532.0,
+          "dpPrice": 389.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/asclepius-chyawanprash---avaleha/",
+          "image": "./18_files/_T2041_935870.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "FEVODOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 2643.0,
+          "dpPrice": 2033.0,
+          "sp": 12.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/fevodoc-pravahi-kwath-/",
+          "image": "./18_files/_T2161_690032.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "COUGHDOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 580.0,
+          "dpPrice": 446.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/coughdoc-pravahi-kwath-/",
+          "image": "./18_files/_T2171_837331.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE JC OINT",
+        "pricing": {
+          "mrp": 507.0,
+          "dpPrice": 390.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-jc-oint-/",
+          "image": "./18_files/_T2181_226692.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE VEINDOC OIL",
+        "pricing": {
+          "mrp": 307.0,
+          "dpPrice": 236.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-veindoc-oil-/",
+          "image": "./18_files/_T2191_724367.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "VIRALDOC PRAVAHI KWATH",
+        "pricing": {
+          "mrp": 831.0,
+          "dpPrice": 639.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/viraldoc-pravahi-kwath-/",
+          "image": "./18_files/_T2231_312439.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE HERBAL MEHANDI POWDER",
+        "pricing": {
+          "mrp": 558.0,
+          "dpPrice": 429.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-herbal-mehandi-powder/",
+          "image": "./18_files/_T2251_183088.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "AYUSH KWATH POWDER",
+        "pricing": {
+          "mrp": 336.0,
+          "dpPrice": 258.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/ayush-kwath-powder-/",
+          "image": "./18_files/_T2261_788462.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "PRASS DOC",
+        "pricing": {
+          "mrp": 1371.0,
+          "dpPrice": 1054.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/prass-doc-/",
+          "image": "./18_files/_T2271_307934.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE WHEAT GRASS POWDER",
+        "pricing": {
+          "mrp": 743.0,
+          "dpPrice": 571.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-wheat-grass-powder/",
+          "image": "./18_files/_T2281_147704.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE GENODOC OINT",
+        "pricing": {
+          "mrp": 280.0,
+          "dpPrice": 215.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-genodoc-oint/",
+          "image": "./18_files/_T2291_081128.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE HERBAL HANDWASH",
+        "pricing": {
+          "mrp": 223.0,
+          "dpPrice": 171.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-herbal-handwash-/",
+          "image": "./18_files/_T2301_679765.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE C COMFORT OIL",
+        "pricing": {
+          "mrp": 141.0,
+          "dpPrice": 108.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/exe-c-comfort-oil/",
+          "image": "./18_files/_T2311_703536.png",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SHUDDH SHILAJIT CAPSULE",
+        "pricing": {
+          "mrp": 1905.0,
+          "dpPrice": 1465.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/shuddh-shilajit-capsule-/",
+          "image": "./18_files/_T2551_868508.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "GASDOC CAPSULE",
+        "pricing": {
+          "mrp": 1161.0,
+          "dpPrice": 893.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/gasdoc-capsule-/",
+          "image": "./18_files/_T2561_493110.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "KABZDOC GRANULES",
+        "pricing": {
+          "mrp": 202.0,
+          "dpPrice": 155.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/kabzdoc-granules-/",
+          "image": "./18_files/_T2571_773816.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "HIIMODOC SYRUP",
+        "pricing": {
+          "mrp": 1651.0,
+          "dpPrice": 1270.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/hiimodoc-syrup/",
+          "image": "./18_files/_T2601_695533.jpeg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASTHMDOC SYRUP",
+        "pricing": {
+          "mrp": 1924.0,
+          "dpPrice": 1480.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/asthmdoc-syrup-/",
+          "image": "./18_files/_T2611_398350.jpeg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "METAADOC SYRUP",
+        "pricing": {
+          "mrp": 1473.0,
+          "dpPrice": 1133.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/metaadoc-syrup-/",
+          "image": "./18_files/_T2621_684646.jpeg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "RAAKTDOC SYRUP",
+        "pricing": {
+          "mrp": 1969.0,
+          "dpPrice": 1514.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/raaktdoc-syrup-/",
+          "image": "./18_files/_T2631_843377.jpeg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "FREE YOU ANION SANITARY PAD(280 MM)",
+        "pricing": {
+          "mrp": 223.0,
+          "dpPrice": 159.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/free-you-anion-sanitary-pad280-mm/",
+          "image": "./18_files/_T2741_916813.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "FREE YOU ANION SANITARY PAD(330 MM)",
+        "pricing": {
+          "mrp": 237.0,
+          "dpPrice": 169.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/free-you-anion-sanitary-pad330-mm/",
+          "image": "./18_files/_T2751_689681.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS SHUDH SHILAJEET",
+        "pricing": {
+          "mrp": 2366.0,
+          "dpPrice": 1690.0,
+          "sp": 10.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/asclepius-shudh-shilajeet-/",
+          "image": "./18_files/_T3231_894533.jpg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JOINT CURATOR OIL",
+        "pricing": {
+          "mrp": 411.0,
+          "dpPrice": 343.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellness-product/joint-curator-oil/",
+          "image": "./18_files/_T41.jpeg",
+          "sourceFile": "18.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "BABY CARE": [
+      {
+        "productName": "LITTLE PIE BABY SHAMPOO",
+        "pricing": {
+          "mrp": 175.0,
+          "dpPrice": 125.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/baby-care/little-pie-baby-shampoo/",
+          "image": "./8_files/_T3711_844154.jpg",
+          "sourceFile": "8.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LITTLE PIE SOOTHING BABY GENTLE SOAP",
+        "pricing": {
+          "mrp": 291.0,
+          "dpPrice": 207.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/baby-care/little-pie-soothing-baby-gentle-soap/",
+          "image": "./8_files/_T4781_753160.jpg",
+          "sourceFile": "8.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LITTLE PIE BABY LOTION",
+        "pricing": {
+          "mrp": 245.0,
+          "dpPrice": 175.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/baby-care/little-pie-baby-lotion/",
+          "image": "./8_files/_T3751_504678.jpg",
+          "sourceFile": "8.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LITTLE PIE KIDS PROTEIN  POWDER",
+        "pricing": {
+          "mrp": 1819.0,
+          "dpPrice": 1299.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/baby-care/little-pie-kids-protein--powder/",
+          "image": "./8_files/_T3211_931033.jpg",
+          "sourceFile": "8.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "SNISS ELITE": [
+      {
+        "productName": "SNISS CHARCOAL FACEWASH",
+        "pricing": {
+          "mrp": 419.0,
+          "dpPrice": 299.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-charcoal-facewash/",
+          "image": "./3_files/_T2791_026115.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS VITAMIN C FACEWASH",
+        "pricing": {
+          "mrp": 357.0,
+          "dpPrice": 255.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-vitamin-c-facewash/",
+          "image": "./3_files/_T2801_075982.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HYDRATING FACEWASH",
+        "pricing": {
+          "mrp": 357.0,
+          "dpPrice": 255.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-hydrating-facewash/",
+          "image": "./3_files/_T2811_328306.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS ALOEVERA CUCUMBER GEL",
+        "pricing": {
+          "mrp": 371.0,
+          "dpPrice": 265.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-aloevera-cucumber-gel/",
+          "image": "./3_files/_T2821_542554.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS ALOEVERA TURMERIC GEL",
+        "pricing": {
+          "mrp": 371.0,
+          "dpPrice": 265.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-aloevera-turmeric-gel/",
+          "image": "./3_files/_T2831_119029.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS ALOEVERA PINK GEL",
+        "pricing": {
+          "mrp": 371.0,
+          "dpPrice": 265.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-aloevera-pink-gel/",
+          "image": "./3_files/_T2841_972967.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HYALURONIC ACID FACE MOISTURIZER",
+        "pricing": {
+          "mrp": 770.0,
+          "dpPrice": 550.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-hyaluronic-acid-face-moisturizer/",
+          "image": "./3_files/_T2851_812767.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COFFEE UNDER EYE CREAM",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-coffee-under-eye-cream/",
+          "image": "./3_files/_T2871_126532.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS VITAMIN C FACE TONER",
+        "pricing": {
+          "mrp": 629.0,
+          "dpPrice": 449.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-vitamin-c-face-toner/",
+          "image": "./3_files/_T2881_649806.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS VITAMIN C FACE SERUM",
+        "pricing": {
+          "mrp": 749.0,
+          "dpPrice": 535.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-vitamin-c-face-serum/",
+          "image": "./3_files/_T2901_061201.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS NIACINAMIDE FACE SERUM",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-niacinamide-face-serum/",
+          "image": "./3_files/_T2911_464004.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS 24K GOLD FACE SERUM",
+        "pricing": {
+          "mrp": 769.0,
+          "dpPrice": 549.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-24k-gold-face-serum/",
+          "image": "./3_files/_T2921_736077.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HAIR GROWTH SERUM",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-hair-growth-serum/",
+          "image": "./3_files/_T2931_209101.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS SALICYLIC ACID FACE SHEET MASK",
+        "pricing": {
+          "mrp": 315.0,
+          "dpPrice": 225.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-salicylic-acid-face-sheet-mask/",
+          "image": "./3_files/_T2941_066342.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS AHA + BHA FACE SHEET MASK",
+        "pricing": {
+          "mrp": 315.0,
+          "dpPrice": 225.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-aha--bha-face-sheet-mask/",
+          "image": "./3_files/_T2951_118717.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS KOJIC ACID FACE SHEET MASK",
+        "pricing": {
+          "mrp": 315.0,
+          "dpPrice": 225.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-kojic-acid-face-sheet-mask/",
+          "image": "./3_files/_T2961_249371.png",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COLLAGEN + PEPTIDE FACE SHEET",
+        "pricing": {
+          "mrp": 315.0,
+          "dpPrice": 225.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-collagen--peptide-face-sheet/",
+          "image": "./3_files/_T2971_378306.png",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS ELITE DE-TEN FACIAL SHEET MASK",
+        "pricing": {
+          "mrp": 315.0,
+          "dpPrice": 225.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-elite-de-ten-facial-sheet-mask/",
+          "image": "./3_files/_T2981_908135.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS SUNSCREEN GEL BROAD SPECTURM SPF50 PA++++",
+        "pricing": {
+          "mrp": 405.0,
+          "dpPrice": 289.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-sunscreen-gel-broad-specturm-spf50-pa/",
+          "image": "./3_files/_T2991_529711.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS LAVENDER SUNSREEN STICK BROAD SPECTURM SPF50 PA++++",
+        "pricing": {
+          "mrp": 769.0,
+          "dpPrice": 549.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-elite/sniss-lavender-sunsreen-stick-broad-specturm-spf50-pa/",
+          "image": "./3_files/_T3001_291253.jpg",
+          "sourceFile": "3.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "APPARELS": [
+      {
+        "productName": "ASCLEPIUS T SHIRT (XXL)",
+        "pricing": {
+          "mrp": 2730.0,
+          "dpPrice": 1950.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-t-shirt-xxl/",
+          "image": "./13_files/_T2111_950413.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS T SHIRT (S)",
+        "pricing": {
+          "mrp": 2730.0,
+          "dpPrice": 1950.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-t-shirt-s/",
+          "image": "./13_files/_T2071_892730.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS T SHIRT (L)",
+        "pricing": {
+          "mrp": 2730.0,
+          "dpPrice": 1950.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-t-shirt-l/",
+          "image": "./13_files/_T2091_894765.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS T SHIRT (M)",
+        "pricing": {
+          "mrp": 2730.0,
+          "dpPrice": 1950.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-t-shirt-m/",
+          "image": "./13_files/_T2081_505495.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS T SHIRT (XL)",
+        "pricing": {
+          "mrp": 2730.0,
+          "dpPrice": 1950.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-t-shirt-xl/",
+          "image": "./13_files/_T2101_685339.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS WOMEN SAREE CRAPE",
+        "pricing": {
+          "mrp": 2239.0,
+          "dpPrice": 1599.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-women-saree-crape/",
+          "image": "./13_files/noimg.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ASCLEPIUS WOMEN SUITS",
+        "pricing": {
+          "mrp": 2239.0,
+          "dpPrice": 1599.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/apparels/asclepius-women-suits/",
+          "image": "./13_files/noimg.jpg",
+          "sourceFile": "13.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "VETERINARY": [
+      {
+        "productName": "VETDOC CALCIUM SUSPENSION",
+        "pricing": {
+          "mrp": 2592.0,
+          "dpPrice": 1994.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/veterinary-/vetdoc-calcium-suspension/",
+          "image": "./www.asclepiuswellness.com_files/_T1781.jpg",
+          "sourceFile": "www.asclepiuswellness.com.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "VETDOC FAT BOOSTER POWDER",
+        "pricing": {
+          "mrp": 1687.0,
+          "dpPrice": 1298.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/veterinary-/vetdoc-fat-booster-powder/",
+          "image": "./www.asclepiuswellness.com_files/_T1791.jpg",
+          "sourceFile": "www.asclepiuswellness.com.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "AGRICULTURE PRODUCTS": [
+      {
+        "productName": "VEDIK AGRO ECO HARIYALI",
+        "pricing": {
+          "mrp": 1319.0,
+          "dpPrice": 1015.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/agriculture-products/vedik-agro-eco-hariyali/",
+          "image": "./12_files/_T1291_703889.jpg",
+          "sourceFile": "12.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "VEDIK AGRO PGPR",
+        "pricing": {
+          "mrp": 670.0,
+          "dpPrice": 515.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/agriculture-products/vedik-agro-pgpr/",
+          "image": "./12_files/_T1271_934449.jpg",
+          "sourceFile": "12.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "VEDIK AGRO AGRO 90",
+        "pricing": {
+          "mrp": 643.0,
+          "dpPrice": 494.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/agriculture-products/vedik-agro-agro-90/",
+          "image": "./12_files/_T1281.JPG",
+          "sourceFile": "12.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "VEDIK AGRO BHUVITA SOIL CONDITIONER",
+        "pricing": {
+          "mrp": 644.0,
+          "dpPrice": 496.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/agriculture-products/vedik-agro-bhuvita-soil-conditioner/",
+          "image": "./12_files/_T1301.JPG",
+          "sourceFile": "12.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "SNISS COSMETIC": [
+      {
+        "productName": "SNISS COSMETIC PRIMER",
+        "pricing": {
+          "mrp": 1329.0,
+          "dpPrice": 949.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-primer/",
+          "image": "./2_files/_T3951_883043.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIFT AND SCULPT CONCEALER- IVORY PLAY",
+        "pricing": {
+          "mrp": 909.0,
+          "dpPrice": 649.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lift-and-sculpt-concealer--ivory-play/",
+          "image": "./2_files/_T3961_318803.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC SKIN TINT - LUMINOUS VEIL- MOCHACCINO",
+        "pricing": {
+          "mrp": 1399.0,
+          "dpPrice": 999.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-skin-tint---luminous-veil--mochaccino/",
+          "image": "./2_files/_T4591_288546.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ULTRA SMOOTH FOUNDATION FOR RADIANT GLOW-PURE IVORY",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/ultra-smooth-foundation-for-radiant-glow-pure-ivory/",
+          "image": "./2_files/_T3891_078838.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ULTRA SMOOTH FOUNDATION FOR RADIANT GLOW-CREAMY VANILLA",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/ultra-smooth-foundation-for-radiant-glow-creamy-vanilla/",
+          "image": "./2_files/_T3901_327986.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ULTRA SMOOTH FOUNDATION FOR RADIANT GLOW-SOFT BEIGE",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/ultra-smooth-foundation-for-radiant-glow-soft-beige/",
+          "image": "./2_files/_T3911_599828.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ULTRA SMOOTH FOUNDATION FOR RADIANT GLOW-SILK ALMOND",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/ultra-smooth-foundation-for-radiant-glow-silk-almond/",
+          "image": "./2_files/_T3921_286495.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ULTRA SMOOTH FOUNDATION FOR RADIANT GLOW - WARM CHESTNUT",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/ultra-smooth-foundation-for-radiant-glow---warm-chestnut/",
+          "image": "./2_files/_T3931_781620.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ULTRA SMOOTH FOUNDATION FOR RADIANT GLOW-CARAMEL GLOW",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/ultra-smooth-foundation-for-radiant-glow-caramel-glow/",
+          "image": "./2_files/_T3941_410617.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIFT AND SCULPT CONCEALER- LIGHT PORCELAIN",
+        "pricing": {
+          "mrp": 909.0,
+          "dpPrice": 649.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lift-and-sculpt-concealer--light-porcelain/",
+          "image": "./2_files/_T3971_362586.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIFT AND SCULPT CONCEALER- ALMOND FINISH",
+        "pricing": {
+          "mrp": 909.0,
+          "dpPrice": 649.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lift-and-sculpt-concealer--almond-finish/",
+          "image": "./2_files/_T3981_302515.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIFT AND SCULPT CONCEALER- CARAMEL BLISS",
+        "pricing": {
+          "mrp": 909.0,
+          "dpPrice": 649.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lift-and-sculpt-concealer--caramel-bliss/",
+          "image": "./2_files/_T3991_461506.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIFT AND SCULPT CONCEALER- VELVET BRONZE",
+        "pricing": {
+          "mrp": 909.0,
+          "dpPrice": 649.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lift-and-sculpt-concealer--velvet-bronze/",
+          "image": "./2_files/_T4001_785340.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LIFT AND SCULPT CONCEALER- ROSE BEIGE",
+        "pricing": {
+          "mrp": 909.0,
+          "dpPrice": 649.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lift-and-sculpt-concealer--rose-beige/",
+          "image": "./2_files/_T4011_070974.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "COLOR DREW BLUSH STICK- CHEEKY",
+        "pricing": {
+          "mrp": 559.0,
+          "dpPrice": 399.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/color-drew-blush-stick--cheeky/",
+          "image": "./2_files/_T4041_784698.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC  LUMITOUCH COMPACT POWDER- BANANA EDGE",
+        "pricing": {
+          "mrp": 979.0,
+          "dpPrice": 699.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic--lumitouch-compact-powder--banana-edge/",
+          "image": "./2_files/_T4121_158564.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUMITOUCH COMPACT POWDER RADIANT BEIGE",
+        "pricing": {
+          "mrp": 979.0,
+          "dpPrice": 699.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/lumitouch-compact-powder-radiant-beige/",
+          "image": "./2_files/_T4141_900576.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EYELINER HOLOGRAPHIC- AMBRE GREEN FLARE",
+        "pricing": {
+          "mrp": 279.0,
+          "dpPrice": 199.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/eyeliner-holographic--ambre-green-flare/",
+          "image": "./2_files/_T4231_868874.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MATT EYE LINER BLACK",
+        "pricing": {
+          "mrp": 867.0,
+          "dpPrice": 619.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/matt-eye-liner-black/",
+          "image": "./2_files/_T4261_507368.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC MASCARA",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-mascara/",
+          "image": "./2_files/_T4291_538757.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK-DUSKY ROSE",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick-dusky-rose-/",
+          "image": "./2_files/_T4301_687163.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK-CORAL TOUCH",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick-coral-touch/",
+          "image": "./2_files/_T4311_400603.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK-PINK KISS",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick-pink-kiss/",
+          "image": "./2_files/_T4321_413850.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK-FLATTE PINK",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick-flatte-pink/",
+          "image": "./2_files/_T4331_819488.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK-BLUSH PUNCH",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick-blush-punch/",
+          "image": "./2_files/_T4341_262069.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- CHARMING",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--charming/",
+          "image": "./2_files/_T4351_183615.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- COFFEE LOVE",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--coffee-love/",
+          "image": "./2_files/_T4361_093070.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- PLUM POP",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--plum-pop/",
+          "image": "./2_files/_T4371_450087.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- RED CARPET",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--red-carpet/",
+          "image": "./2_files/_T4381_383782.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- FUDGE",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--fudge/",
+          "image": "./2_files/_T4391_464128.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- SCARLETTE RED",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--scarlette-red/",
+          "image": "./2_files/_T4401_312051.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ALL DAY LUXE CRÈME LIPSTICK- FLIRTY",
+        "pricing": {
+          "mrp": 699.0,
+          "dpPrice": 499.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/all-day-luxe-cr%C3%A8me-lipstick--flirty/",
+          "image": "./2_files/_T4411_201607.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- FINE WINE",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/-luxe-matte-liquid-lipstick--fine-wine/",
+          "image": "./2_files/_T4421_090556.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- DEEP HUE",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--deep-hue/",
+          "image": "./2_files/_T4431_384096.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- CORAL KISS",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--coral-kiss/",
+          "image": "./2_files/_T4441_950518.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- TIPSY",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--tipsy/",
+          "image": "./2_files/_T4451_920824.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- ROSE PLAY",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--rose-play/",
+          "image": "./2_files/_T4461_978687.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- CINNAMON",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--cinnamon/",
+          "image": "./2_files/_T4471_190323.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- CARAMEL",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--caramel/",
+          "image": "./2_files/_T4481_020129.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- HOT CHICK",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--hot-chick/",
+          "image": "./2_files/_T4491_313738.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- FIERY",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--fiery/",
+          "image": "./2_files/_T4501_831648.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- HALEN",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--halen/",
+          "image": "./2_files/_T4511_017369.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- CHOCO DELIGHT",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/-luxe-matte-liquid-lipstick--choco-delight/",
+          "image": "./2_files/_T4521_877932.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "LUXE MATTE LIQUID LIPSTICK- MAUVE ATTACK",
+        "pricing": {
+          "mrp": 517.0,
+          "dpPrice": 369.0,
+          "sp": 1.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/luxe-matte-liquid-lipstick--mauve-attack/",
+          "image": "./2_files/_T4531_773393.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JUICY LIP BALM- VANILLA",
+        "pricing": {
+          "mrp": 406.0,
+          "dpPrice": 290.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/juicy-lip-balm--vanilla/",
+          "image": "./2_files/_T4541_803167.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JUICY LIP BALM- PEACHY",
+        "pricing": {
+          "mrp": 406.0,
+          "dpPrice": 290.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/juicy-lip-balm--peachy/",
+          "image": "./2_files/_T4551_555672.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "JUICY LIP BALM- ROSEY",
+        "pricing": {
+          "mrp": 406.0,
+          "dpPrice": 290.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/juicy-lip-balm--rosey/",
+          "image": "./2_files/_T4561_219437.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SKIN TINT-LUMINOUS VEIL-RADIANT SAND",
+        "pricing": {
+          "mrp": 1399.0,
+          "dpPrice": 999.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/skin-tint-luminous-veil-radiant-sand-/",
+          "image": "./2_files/_T4571_320884.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC SKIN TINT - LUMINOUS VEIL- SOFT MAPLE",
+        "pricing": {
+          "mrp": 1399.0,
+          "dpPrice": 999.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-skin-tint---luminous-veil--soft-maple/",
+          "image": "./2_files/_T4581_184132.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC LUXE LIPS DEFINER- RUBY RED",
+        "pricing": {
+          "mrp": 979.0,
+          "dpPrice": 699.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-luxe-lips-definer--ruby-red/",
+          "image": "./2_files/_T4621_581507.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SILK SHEIN LUXE LIP GLOSS- STRAWBERRY FLUSH",
+        "pricing": {
+          "mrp": 391.0,
+          "dpPrice": 279.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/silk-shein-luxe-lip-gloss--strawberry-flush/",
+          "image": "./2_files/_T4691_140210.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC SILK SHEIN LUXE LIP GLOSS- SWEET CARAMEL",
+        "pricing": {
+          "mrp": 391.0,
+          "dpPrice": 279.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-silk-shein-luxe-lip-gloss--sweet-caramel/",
+          "image": "./2_files/_T4701_743428.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SILK SHEIN LUXE LIP GLOSS- BOSS BABE",
+        "pricing": {
+          "mrp": 391.0,
+          "dpPrice": 279.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/silk-shein-luxe-lip-gloss--boss-babe/",
+          "image": "./2_files/_T4711_707074.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC SINDOOR- MEHROON",
+        "pricing": {
+          "mrp": 167.0,
+          "dpPrice": 119.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-sindoor--mehroon/",
+          "image": "./2_files/_T4741_636319.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS COSMETIC SINDOOR- RED",
+        "pricing": {
+          "mrp": 167.0,
+          "dpPrice": 119.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/sniss-cosmetic-sindoor--red/",
+          "image": "./2_files/_T4751_827036.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MIRROR FINISH CORRECTOR CONCEALER- GREEN",
+        "pricing": {
+          "mrp": 629.0,
+          "dpPrice": 449.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/mirror-finish-corrector-concealer--green/",
+          "image": "./2_files/_T4761_934365.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MIRROR FINISH CORRECTOR CONCEALER- ORANGE",
+        "pricing": {
+          "mrp": 629.0,
+          "dpPrice": 449.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-cosmetic/mirror-finish-corrector-concealer--orange/",
+          "image": "./2_files/_T4771_707538.jpg",
+          "sourceFile": "2.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "HAIR CARE": [
+      {
+        "productName": "MAKEUP MANTRAS EXE HAIR SHINE OINT",
+        "pricing": {
+          "mrp": 283.0,
+          "dpPrice": 236.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/hair-care/makeup-mantras-exe-hair-shine-oint/",
+          "image": "./11_files/_T601.JPG",
+          "sourceFile": "11.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS HAIRDOC OIL 200 ML",
+        "pricing": {
+          "mrp": 485.0,
+          "dpPrice": 404.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/hair-care/makeup-mantras-hairdoc-oil-200-ml/",
+          "image": "./11_files/_T1471.jpeg",
+          "sourceFile": "11.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS EXE HAIR CLEANSER",
+        "pricing": {
+          "mrp": 252.0,
+          "dpPrice": 210.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/hair-care/makeup-mantras-exe-hair-cleanser/",
+          "image": "./11_files/_T121.png",
+          "sourceFile": "11.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "SNISS HERBAL": [
+      {
+        "productName": "SNISS HERBAL ALMOND OLIVE HAIR OIL",
+        "pricing": {
+          "mrp": 125.0,
+          "dpPrice": 89.0,
+          "sp": 0.05,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-almond-olive-hair-oil/",
+          "image": "./10_files/_T3631_068111.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL AMLA HAIR OIL",
+        "pricing": {
+          "mrp": 119.0,
+          "dpPrice": 85.0,
+          "sp": 0.05,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-amla-hair-oil/",
+          "image": "./10_files/_T3641_621433.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL FACE SCRUB CREAM",
+        "pricing": {
+          "mrp": 328.0,
+          "dpPrice": 234.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-face-scrub-cream/",
+          "image": "./10_files/_T3471_045917.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL DAY CREAM",
+        "pricing": {
+          "mrp": 358.0,
+          "dpPrice": 256.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-day-cream/",
+          "image": "./10_files/_T3481_219560.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL ROOT & SHINE SHAMPOO",
+        "pricing": {
+          "mrp": 153.0,
+          "dpPrice": 109.0,
+          "sp": 0.15,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-root-and-shine-shampoo-/",
+          "image": "./10_files/_T3701_108573.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL ALOEVERA SAFFRON OINT GEL",
+        "pricing": {
+          "mrp": 337.0,
+          "dpPrice": 241.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-aloevera-saffron-oint-gel/",
+          "image": "./10_files/_T3581_022289.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL PEEL OFF FACE MASK",
+        "pricing": {
+          "mrp": 251.0,
+          "dpPrice": 179.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-peel-off-face-mask/",
+          "image": "./10_files/_T3721_781619.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL ALOEVERA ORANGE SHOWER GEL",
+        "pricing": {
+          "mrp": 321.0,
+          "dpPrice": 229.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-aloevera-orange-shower-gel/",
+          "image": "./10_files/_T3731_608989.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL ALOE VERA SHOWER GEL",
+        "pricing": {
+          "mrp": 357.0,
+          "dpPrice": 255.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-aloe-vera-shower-gel/",
+          "image": "./10_files/_T3741_810378.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SNISS HERBAL TALCUM POWDER",
+        "pricing": {
+          "mrp": 167.0,
+          "dpPrice": 119.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/sniss-herbal/sniss-herbal-talcum-powder-/",
+          "image": "./10_files/_T3771_814415.jpg",
+          "sourceFile": "10.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "BEAUTY & PERSONAL CARE (MAKEUP MANTRAS)": [
+      {
+        "productName": "EXE HERBAL FACE SCRUB CREAM",
+        "pricing": {
+          "mrp": 251.0,
+          "dpPrice": 209.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/exe-herbal-face-scrub-cream/",
+          "image": "./17_files/_T191.png",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE ALOEVERA SAFFRON OINT GEL",
+        "pricing": {
+          "mrp": 259.0,
+          "dpPrice": 216.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/exe-aloevera-saffron-oint-gel/",
+          "image": "./17_files/_T181.png",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS EXE HERBAL FACE WASH",
+        "pricing": {
+          "mrp": 248.0,
+          "dpPrice": 207.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-exe-herbal-face-wash/",
+          "image": "./17_files/_T141.png",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS EXE HEAL DOC CREAM",
+        "pricing": {
+          "mrp": 268.0,
+          "dpPrice": 223.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-exe-heal-doc-cream/",
+          "image": "./17_files/_T161.png",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE HERBAL FACE PACK CREAM",
+        "pricing": {
+          "mrp": 251.0,
+          "dpPrice": 209.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/exe-herbal-face-pack-cream/",
+          "image": "./17_files/_T171.png",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS NIGHT CREAM FOR MEN",
+        "pricing": {
+          "mrp": 310.0,
+          "dpPrice": 248.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-night-cream-for-men/",
+          "image": "./17_files/_T1571.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS KIWI FRUIT FACE WASH",
+        "pricing": {
+          "mrp": 181.0,
+          "dpPrice": 139.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-kiwi-fruit-face-wash/",
+          "image": "./17_files/_T1331.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS BODY LOTION",
+        "pricing": {
+          "mrp": 357.0,
+          "dpPrice": 275.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-body-lotion/",
+          "image": "./17_files/_T1371.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS LIP BALM",
+        "pricing": {
+          "mrp": 40.0,
+          "dpPrice": 31.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-lip-balm/",
+          "image": "./17_files/_T1311.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS HAIR REMOVAL CREAM",
+        "pricing": {
+          "mrp": 181.0,
+          "dpPrice": 139.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-hair-removal-cream/",
+          "image": "./17_files/_T1381.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS STRAWBERRY FACE WASH",
+        "pricing": {
+          "mrp": 182.0,
+          "dpPrice": 140.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-strawberry-face-wash/",
+          "image": "./17_files/_T1341.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS DAY CREAM FOR MEN",
+        "pricing": {
+          "mrp": 300.0,
+          "dpPrice": 231.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-day-cream-for-men/",
+          "image": "./17_files/_T1351.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MAKEUP MANTRAS FAIRNESS CREAM WOMEN",
+        "pricing": {
+          "mrp": 313.0,
+          "dpPrice": 241.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/beauty-and-personal-care-makeup-mantras/makeup-mantras-fairness-cream-women/",
+          "image": "./17_files/_T1401.JPG",
+          "sourceFile": "17.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "SPICES (ECO AROGYAM)": [
+      {
+        "productName": "ECO AROGYAM CHILLI POWDER 100GM",
+        "pricing": {
+          "mrp": 79.0,
+          "dpPrice": 56.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-chilli-powder-100gm/",
+          "image": "./7_files/_T2651_585487.jpeg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM CHILLI POWDER -500GM",
+        "pricing": {
+          "mrp": 371.0,
+          "dpPrice": 265.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-chilli-powder--500gm-/",
+          "image": "./7_files/_T2671_653114.jpg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM TURMERIC POWDER-100GM",
+        "pricing": {
+          "mrp": 56.0,
+          "dpPrice": 40.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-turmeric-powder-100gm-/",
+          "image": "./7_files/_T2681_828302.jpeg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM TURMERIC POWDER-200GM",
+        "pricing": {
+          "mrp": 111.0,
+          "dpPrice": 79.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-turmeric-powder-200gm-/",
+          "image": "./7_files/_T2691_939363.jpeg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM TURMERIC POWDER-500GM",
+        "pricing": {
+          "mrp": 236.0,
+          "dpPrice": 168.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-turmeric-powder-500gm-/",
+          "image": "./7_files/_T2701_663804.jpeg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM CORIANDER POWDER-100GM",
+        "pricing": {
+          "mrp": 55.0,
+          "dpPrice": 39.0,
+          "sp": 0.1,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-coriander-powder-100gm-/",
+          "image": "./7_files/_T2711_965583.jpg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM CORIANDERPOWDER-200GM",
+        "pricing": {
+          "mrp": 121.0,
+          "dpPrice": 86.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-corianderpowder-200gm-/",
+          "image": "./7_files/_T2721_333433.jpg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM CHILLI POWDER- 200 GM",
+        "pricing": {
+          "mrp": 153.0,
+          "dpPrice": 109.0,
+          "sp": 0.2,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-chilli-powder--200-gm/",
+          "image": "./7_files/_T2661_729383.jpeg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM CORIANDER POWDER-500 GM",
+        "pricing": {
+          "mrp": 261.0,
+          "dpPrice": 186.0,
+          "sp": 0.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/spices-eco-arogyam/eco-arogyam-coriander-powder-500-gm/",
+          "image": "./7_files/_T2731_074197.jpg",
+          "sourceFile": "7.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "FOOD PRODUCT": [
+      {
+        "productName": "SHIITAKE SHAKE (RABDI FALOODA)",
+        "pricing": {
+          "mrp": 763.0,
+          "dpPrice": 565.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/shiitake-shake-rabdi-falooda/",
+          "image": "./6_files/_T2031_020308.jpg",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM MULTIFLORA HONEY (NEW)",
+        "pricing": {
+          "mrp": 531.0,
+          "dpPrice": 379.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/eco-arogyam-multiflora-honey-new/",
+          "image": "./6_files/_T2121_986590.jpg",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM COFFEE",
+        "pricing": {
+          "mrp": 352.0,
+          "dpPrice": 293.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/eco-arogyam-coffee/",
+          "image": "./6_files/_T1481.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM PROTEINDOC POWDER",
+        "pricing": {
+          "mrp": 1234.0,
+          "dpPrice": 949.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/eco-arogyam-proteindoc-powder/",
+          "image": "./6_files/_T1691.png",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SUPERVO RICE BRAN OIL (2 LTR)",
+        "pricing": {
+          "mrp": 605.0,
+          "dpPrice": 465.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/supervo-rice-bran-oil-2-ltr/",
+          "image": "./6_files/_T1611.png",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "NATURFIT WAKECHA LEMON LIME FLAVOR",
+        "pricing": {
+          "mrp": 436.0,
+          "dpPrice": 379.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/naturfit-wakecha-lemon-lime-flavor/",
+          "image": "./6_files/_T1491.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SUPERVO RICE BRAN OIL (5 LTR)",
+        "pricing": {
+          "mrp": 1512.0,
+          "dpPrice": 1163.0,
+          "sp": 2.5,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/supervo-rice-bran-oil-5-ltr/",
+          "image": "./6_files/_T1621.png",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "HORNY GOAT WEED CAPSULE",
+        "pricing": {
+          "mrp": 1499.0,
+          "dpPrice": 1199.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/horny-goat-weed-capsule/",
+          "image": "./6_files/_T1441.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "CHARGEDOC ENERGY DRINK GREEN APPLE",
+        "pricing": {
+          "mrp": 1658.0,
+          "dpPrice": 1275.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/chargedoc-energy-drink-green-apple/",
+          "image": "./6_files/_T1681.png",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "CHARGEDOC ENERGY DRINK WATERMELON",
+        "pricing": {
+          "mrp": 1949.0,
+          "dpPrice": 1499.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/chargedoc-energy-drink-watermelon/",
+          "image": "./6_files/_T1671.png",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM ACTIVE FIBER COMPLEX",
+        "pricing": {
+          "mrp": 1949.0,
+          "dpPrice": 1499.0,
+          "sp": 9.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/eco-arogyam-active-fiber-complex/",
+          "image": "./6_files/_T1631.jpeg",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM PLANT PROTEIN POWDER",
+        "pricing": {
+          "mrp": 3221.0,
+          "dpPrice": 2478.0,
+          "sp": 12.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/eco-arogyam-plant-protein-powder/",
+          "image": "./6_files/_T1641.jpeg",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "SHOTS 30",
+        "pricing": {
+          "mrp": 5381.0,
+          "dpPrice": 4484.0,
+          "sp": 27.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/shots-30/",
+          "image": "./6_files/_T1121_621125.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "NATURFIT KIT",
+        "pricing": {
+          "mrp": 6314.0,
+          "dpPrice": 5490.0,
+          "sp": 27.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/naturfit-kit/",
+          "image": "./6_files/_T1601.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "ECO AROGYAM TEA",
+        "pricing": {
+          "mrp": 197.0,
+          "dpPrice": 151.0,
+          "sp": 0.25,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/eco-arogyam-tea-/",
+          "image": "./6_files/_T2321_178525.jpeg",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "GREEN TEA EXTRACT CAPSULE",
+        "pricing": {
+          "mrp": 1359.0,
+          "dpPrice": 1045.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/green-tea-extract-capsule/",
+          "image": "./6_files/_T1221.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "GREEN COFFEE BEAN EXTRACT CAPSULE",
+        "pricing": {
+          "mrp": 1212.0,
+          "dpPrice": 932.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/green-coffee-bean-extract-capsule/",
+          "image": "./6_files/_T1251.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "FENNELDOC DROP",
+        "pricing": {
+          "mrp": 231.0,
+          "dpPrice": 193.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/fenneldoc-drop/",
+          "image": "./6_files/_T761.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "MUSCLEDOC POWDER",
+        "pricing": {
+          "mrp": 5238.0,
+          "dpPrice": 4365.0,
+          "sp": 25.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/muscledoc-powder/",
+          "image": "./6_files/_T671.JPG",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE GOLDEN MILK POWDER",
+        "pricing": {
+          "mrp": 1187.0,
+          "dpPrice": 879.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/food-product/exe-golden-milk-powder/",
+          "image": "./6_files/_T911.png",
+          "sourceFile": "6.html"
+        },
+        "availability": "In Stock"
+      }
+    ],
+    "WELLROOT": [
+      {
+        "productName": "WELLROOT CURCIDOC DROP",
+        "pricing": {
+          "mrp": 1049.0,
+          "dpPrice": 749.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-curcidoc-drop/",
+          "image": "./16_files/_T3041_167295.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT CURCIDOC TABLET",
+        "pricing": {
+          "mrp": 1749.0,
+          "dpPrice": 1249.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-curcidoc-tablet/",
+          "image": "./16_files/_T3051_078755.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT COW C DOC TABLET",
+        "pricing": {
+          "mrp": 1444.0,
+          "dpPrice": 1111.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-cow-c-doc-tablet/",
+          "image": "./16_files/_T3071_103039.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT FITDOC  POWDER",
+        "pricing": {
+          "mrp": 629.0,
+          "dpPrice": 449.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-fitdoc--powder/",
+          "image": "./16_files/_T3101_570923.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT DIGIDOC POWDER",
+        "pricing": {
+          "mrp": 335.0,
+          "dpPrice": 239.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-digidoc-powder/",
+          "image": "./16_files/_T3111_877033.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT GILOY TABLET",
+        "pricing": {
+          "mrp": 324.0,
+          "dpPrice": 249.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-giloy-tablet/",
+          "image": "./16_files/_T3121_699969.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT ASHWAGANDHA TABLET",
+        "pricing": {
+          "mrp": 1399.0,
+          "dpPrice": 999.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-ashwagandha-tablet/",
+          "image": "./16_files/_T3141_121184.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "EXE GINSENG  TABLET",
+        "pricing": {
+          "mrp": 1350.0,
+          "dpPrice": 964.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/exe-ginseng--tablet/",
+          "image": "./16_files/_T3151_919945.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT TESTOFAST TABLET",
+        "pricing": {
+          "mrp": 3065.0,
+          "dpPrice": 2189.0,
+          "sp": 12.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-testofast-tablet/",
+          "image": "./16_files/_T3161_126057.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT WAKECHA LEMON LIME",
+        "pricing": {
+          "mrp": 629.0,
+          "dpPrice": 449.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-wakecha-lemon-lime/",
+          "image": "./16_files/_T3181_256830.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT ACTIVE FIBER COMPLEX",
+        "pricing": {
+          "mrp": 2799.0,
+          "dpPrice": 1999.0,
+          "sp": 9.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-active-fiber-complex/",
+          "image": "./16_files/_T3201_652673.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT PROTEINDOC POWDER",
+        "pricing": {
+          "mrp": 1610.0,
+          "dpPrice": 1150.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-proteindoc-powder/",
+          "image": "./16_files/_T3221_821095.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT NONIDOC JUICE",
+        "pricing": {
+          "mrp": 1226.0,
+          "dpPrice": 1022.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-nonidoc-juice/",
+          "image": "./16_files/_T4891_949699.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT BERRYDOC JUICE",
+        "pricing": {
+          "mrp": 2925.0,
+          "dpPrice": 2089.0,
+          "sp": 11.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-berrydoc-juice/",
+          "image": "./16_files/_T4901_241705.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SEABUCKDOC JUICE",
+        "pricing": {
+          "mrp": 1338.0,
+          "dpPrice": 1115.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-seabuckdoc-juice/",
+          "image": "./16_files/_T4911_742567.png",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT OMEGADOC CAPSULE",
+        "pricing": {
+          "mrp": 1293.0,
+          "dpPrice": 994.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-omegadoc-capsule/",
+          "image": "./16_files/_T4921_760498.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT VITADOC TABLET",
+        "pricing": {
+          "mrp": 2040.0,
+          "dpPrice": 1457.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-vitadoc-tablet/",
+          "image": "./16_files/_T4931_885576.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT HEIGHTDOC POWDER",
+        "pricing": {
+          "mrp": 4899.0,
+          "dpPrice": 3499.0,
+          "sp": 17.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-heightdoc-powder/",
+          "image": "./16_files/_T4941_399318.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SHOTS MORE",
+        "pricing": {
+          "mrp": 7497.0,
+          "dpPrice": 5355.0,
+          "sp": 27.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-shots-more/",
+          "image": "./16_files/_T4951_184735.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT STEVIADOC DROP",
+        "pricing": {
+          "mrp": 485.0,
+          "dpPrice": 373.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-steviadoc-drop/",
+          "image": "./16_files/_T4961_652970.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SPIRADOC TABLET",
+        "pricing": {
+          "mrp": 1375.0,
+          "dpPrice": 1057.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-spiradoc-tablet/",
+          "image": "./16_files/_T4971_328709.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT MORIDOC TABLET",
+        "pricing": {
+          "mrp": 1365.0,
+          "dpPrice": 1050.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-moridoc-tablet/",
+          "image": "./16_files/_T4981_420932.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT EXE IMMUNITY DROP",
+        "pricing": {
+          "mrp": 264.0,
+          "dpPrice": 203.0,
+          "sp": 1.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-exe-immunity-drop/",
+          "image": "./16_files/_T4991_133922.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT ZINC TABLET",
+        "pricing": {
+          "mrp": 446.0,
+          "dpPrice": 343.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-zinc-tablet/",
+          "image": "./16_files/_T5001_233325.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT VITAMIN B12 TABLET",
+        "pricing": {
+          "mrp": 696.0,
+          "dpPrice": 535.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-vitamin-b12-tablet/",
+          "image": "./16_files/_T5011_755695.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT VITAMIN D2 TABLET",
+        "pricing": {
+          "mrp": 901.0,
+          "dpPrice": 693.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-vitamin-d2-tablet/",
+          "image": "./16_files/_T5021_194925.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT CALCIUM TABLET",
+        "pricing": {
+          "mrp": 715.0,
+          "dpPrice": 550.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-calcium-tablet/",
+          "image": "./16_files/_T5031_239327.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT WOMEN WELLNESS TABLET",
+        "pricing": {
+          "mrp": 1571.0,
+          "dpPrice": 1208.0,
+          "sp": 7.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-women-wellness-tablet/",
+          "image": "./16_files/_T5041_006972.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT FENUGREEK EXTRACT TABLET",
+        "pricing": {
+          "mrp": 1259.0,
+          "dpPrice": 968.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-fenugreek-extract-tablet/",
+          "image": "./16_files/_T5051_100390.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT ARJUN EXTRACT TABLET",
+        "pricing": {
+          "mrp": 1399.0,
+          "dpPrice": 1076.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-arjun-extract-tablet/",
+          "image": "./16_files/_T5061_990492.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT KESAR ELAICHI MILK MATE",
+        "pricing": {
+          "mrp": 1875.0,
+          "dpPrice": 1339.0,
+          "sp": 5.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-kesar-elaichi-milk-mate/",
+          "image": "./16_files/_T4791_600456.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT BRAHMI EXTRACT TABLET",
+        "pricing": {
+          "mrp": 615.0,
+          "dpPrice": 473.0,
+          "sp": 2.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-brahmi-extract-tablet/",
+          "image": "./16_files/_T5071_767112.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT NEEM EXTRACT TABLET",
+        "pricing": {
+          "mrp": 982.0,
+          "dpPrice": 755.0,
+          "sp": 4.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-neem-extract-tablet/",
+          "image": "./16_files/_T5081_578796.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT VITAMIN K2 TABLET",
+        "pricing": {
+          "mrp": 780.0,
+          "dpPrice": 600.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-vitamin-k2-tablet/",
+          "image": "./16_files/_T5091_461479.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT DAYLIFT TABLET",
+        "pricing": {
+          "mrp": 1384.0,
+          "dpPrice": 1064.0,
+          "sp": 6.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-daylift-tablet/",
+          "image": "./16_files/_T5101_609527.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT IRON TABLET",
+        "pricing": {
+          "mrp": 757.0,
+          "dpPrice": 582.0,
+          "sp": 3.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-iron-tablet/",
+          "image": "./16_files/_T5111_268254.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SLIMDOC POWDER- RICH CHOCLATE FLAVOR",
+        "pricing": {
+          "mrp": 2659.0,
+          "dpPrice": 1899.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-slimdoc-powder--rich-choclate-flavor/",
+          "image": "./16_files/_T5151_123088.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SLIMDOC POWDER-REAL MANGO FLAVOR",
+        "pricing": {
+          "mrp": 2659.0,
+          "dpPrice": 1899.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-slimdoc-powder-real-mango-flavor/",
+          "image": "./16_files/_T5161_300185.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SLIMDOC POWDER-JUICY STRAWBERRY FLAVOR",
+        "pricing": {
+          "mrp": 2659.0,
+          "dpPrice": 1899.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-slimdoc-powder-juicy-strawberry-flavor/",
+          "image": "./16_files/_T5171_762013.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      },
+      {
+        "productName": "WELLROOT SLIMDOC POWDER-CREAMY BANANA FLAVOR",
+        "pricing": {
+          "mrp": 2659.0,
+          "dpPrice": 1899.0,
+          "sp": 8.0,
+          "currency": "INR"
+        },
+        "details": {
+          "url": "https://www.asclepiuswellness.com/product/wellroot/wellroot-slimdoc-powder-creamy-banana-flavor/",
+          "image": "./16_files/_T5181_128063.jpg",
+          "sourceFile": "16.html"
+        },
+        "availability": "In Stock"
+      }
+    ]
+  },
+  "categoryStatistics": {
+    "OTHERS": {
+      "productCount": 1,
+      "priceRange": {
+        "min": 299.0,
+        "max": 299.0
+      }
+    },
+    "ORAL CARE": {
+      "productCount": 1,
+      "priceRange": {
+        "min": 217.0,
+        "max": 217.0
+      }
+    },
+    "JEEVEDA SPICES": {
+      "productCount": 20,
+      "priceRange": {
+        "min": 39.0,
+        "max": 229.0
+      }
+    },
+    "SNISS FRAGRANCES": {
+      "productCount": 2,
+      "priceRange": {
+        "min": 715.0,
+        "max": 715.0
+      }
+    },
+    "HOME CARE": {
+      "productCount": 16,
+      "priceRange": {
+        "min": 89.0,
+        "max": 309.0
+      }
+    },
+    "WELLNESS PRODUCT": {
+      "productCount": 48,
+      "priceRange": {
+        "min": 108.0,
+        "max": 2259.0
+      }
+    },
+    "BABY CARE": {
+      "productCount": 4,
+      "priceRange": {
+        "min": 125.0,
+        "max": 1299.0
+      }
+    },
+    "SNISS ELITE": {
+      "productCount": 20,
+      "priceRange": {
+        "min": 225.0,
+        "max": 550.0
+      }
+    },
+    "APPARELS": {
+      "productCount": 7,
+      "priceRange": {
+        "min": 1599.0,
+        "max": 1950.0
+      }
+    },
+    "VETERINARY": {
+      "productCount": 2,
+      "priceRange": {
+        "min": 1298.0,
+        "max": 1994.0
+      }
+    },
+    "AGRICULTURE PRODUCTS": {
+      "productCount": 4,
+      "priceRange": {
+        "min": 494.0,
+        "max": 1015.0
+      }
+    },
+    "SNISS COSMETIC": {
+      "productCount": 57,
+      "priceRange": {
+        "min": 119.0,
+        "max": 999.0
+      }
+    },
+    "HAIR CARE": {
+      "productCount": 3,
+      "priceRange": {
+        "min": 210.0,
+        "max": 404.0
+      }
+    },
+    "SNISS HERBAL": {
+      "productCount": 10,
+      "priceRange": {
+        "min": 85.0,
+        "max": 256.0
+      }
+    },
+    "BEAUTY & PERSONAL CARE (MAKEUP MANTRAS)": {
+      "productCount": 13,
+      "priceRange": {
+        "min": 31.0,
+        "max": 275.0
+      }
+    },
+    "SPICES (ECO AROGYAM)": {
+      "productCount": 9,
+      "priceRange": {
+        "min": 39.0,
+        "max": 265.0
+      }
+    },
+    "FOOD PRODUCT": {
+      "productCount": 20,
+      "priceRange": {
+        "min": 151.0,
+        "max": 5490.0
+      }
+    },
+    "WELLROOT": {
+      "productCount": 40,
+      "priceRange": {
+        "min": 203.0,
+        "max": 5355.0
+      }
+    }
+  }
+}

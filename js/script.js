@@ -19,67 +19,154 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // Responsive Menu Toggle with enhanced animations
-    const menuToggle = document.createElement('div');
-    menuToggle.className = 'menu-toggle';
-    menuToggle.innerHTML = '<span></span><span></span><span></span>';
-    menuToggle.setAttribute('aria-label', 'Toggle navigation menu');
-    
+    // Responsive Menu Toggle with enhanced animations and touch support
+    const menuToggle = document.querySelector('.menu-toggle');
+    const menuOverlay = document.querySelector('.menu-overlay');
     const nav = document.querySelector('nav .container');
     const menu = document.querySelector('.menu');
     
-    if (nav && menu) {
-        nav.insertBefore(menuToggle, menu);
+    if (nav && menu && menuToggle && menuOverlay) {
+        // Function to toggle menu
+        function toggleMenu() {
+            const isActive = menuToggle.classList.contains('active');
+            
+            if (isActive) {
+                closeMenu();
+            } else {
+                openMenu();
+            }
+        }
         
-        // Optimize menu interactions
+        // Function to open menu
+        function openMenu() {
+            menuToggle.classList.add('active');
+            menu.classList.add('active');
+            menuOverlay.classList.add('active');
+            document.body.classList.add('menu-open');
+            
+            // Store current scroll position
+            const scrollY = window.scrollY;
+            document.body.style.position = 'fixed';
+            document.body.style.top = `-${scrollY}px`;
+            document.body.style.width = '100%';
+            
+            // Add focus trap for accessibility
+            menuToggle.focus();
+        }
+        
+        // Function to close menu
+        function closeMenu() {
+            menuToggle.classList.remove('active');
+            menu.classList.remove('active');
+            menuOverlay.classList.remove('active');
+            document.body.classList.remove('menu-open');
+            
+            // Restore scroll position
+            const scrollY = document.body.style.top;
+            document.body.style.position = '';
+            document.body.style.top = '';
+            document.body.style.width = '';
+            window.scrollTo(0, parseInt(scrollY || '0') * -1);
+        }
+        
+        // Handle menu toggle click
         menuToggle.addEventListener('click', function(e) {
-            e.stopPropagation(); // Prevent event bubbling
-            this.classList.toggle('active');
-            menu.classList.toggle('active');
-            document.body.classList.toggle('menu-open');
+            e.stopPropagation();
+            e.preventDefault();
+            toggleMenu();
         });
         
-        // Close menu when clicking outside - delegated event handler for better performance
+        // Handle keyboard navigation for menu toggle
+        menuToggle.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                toggleMenu();
+            }
+        });
+        
+        // Handle overlay click to close menu
+        menuOverlay.addEventListener('click', function() {
+            closeMenu();
+        });
+        
+        // Close menu when clicking outside - improved logic
         document.addEventListener('click', function(event) {
             if (menu.classList.contains('active') && 
                 !event.target.closest('.menu') && 
                 !event.target.closest('.menu-toggle')) {
-                menu.classList.remove('active');
-                menuToggle.classList.remove('active');
-                document.body.classList.remove('menu-open');
+                closeMenu();
             }
         });
         
         // Close menu when escape key is pressed
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Escape' && menu.classList.contains('active')) {
-                menu.classList.remove('active');
-                menuToggle.classList.remove('active');
-                document.body.classList.remove('menu-open');
+                closeMenu();
             }
         });
         
-        // Event delegation for menu clicks - more efficient than multiple listeners
+        // Event delegation for menu clicks - close menu when link is clicked
         menu.addEventListener('click', function(e) {
             if (e.target.tagName === 'A' && window.innerWidth <= 768) {
-                menu.classList.remove('active');
-                menuToggle.classList.remove('active');
-                document.body.classList.remove('menu-open');
+                closeMenu();
             }
         });
         
-        // Debounced resize handler
+        // Enhanced resize handler with debouncing
         let resizeTimer;
         window.addEventListener('resize', function() {
             clearTimeout(resizeTimer);
             resizeTimer = setTimeout(function() {
                 if (window.innerWidth > 768 && menu.classList.contains('active')) {
-                    menu.classList.remove('active');
-                    menuToggle.classList.remove('active');
-                    document.body.classList.remove('menu-open');
+                    closeMenu();
                 }
             }, 100);
         });
+        
+        // Enhanced touch handling to prevent accidental menu activation
+        let touchStartX = 0;
+        let touchStartY = 0;
+        let touchStartTime = 0;
+        let isScrolling = false;
+        
+        // Prevent accidental menu activation from swipe gestures
+        document.addEventListener('touchstart', function(e) {
+            touchStartX = e.touches[0].clientX;
+            touchStartY = e.touches[0].clientY;
+            touchStartTime = Date.now();
+            isScrolling = false;
+        }, { passive: true });
+        
+        document.addEventListener('touchmove', function(e) {
+            if (!menu.classList.contains('active')) {
+                const touchCurrentX = e.touches[0].clientX;
+                const touchCurrentY = e.touches[0].clientY;
+                const deltaX = touchCurrentX - touchStartX;
+                const deltaY = touchCurrentY - touchStartY;
+                const absDeltaX = Math.abs(deltaX);
+                const absDeltaY = Math.abs(deltaY);
+                
+                // Determine if this is a horizontal swipe or vertical scroll
+                if (!isScrolling) {
+                    isScrolling = absDeltaY > absDeltaX;
+                }
+                
+                // If this is clearly a horizontal swipe from the right edge, prevent any interference
+                if (absDeltaX > 30 && absDeltaX > absDeltaY && touchStartX > window.innerWidth - 50) {
+                    // This is a horizontal swipe from the right edge, prevent any menu activation
+                    e.preventDefault();
+                }
+            }
+        }, { passive: false });
+        
+        // Add specific handling for the navigation area
+        const headerElement = document.querySelector('header');
+        if (headerElement) {
+            headerElement.addEventListener('touchstart', function(e) {
+                // Allow normal touch interactions within the header
+                e.stopPropagation();
+            }, { passive: true });
+        }
     }
 
     // Enhanced image lazy loading with Intersection Observer
