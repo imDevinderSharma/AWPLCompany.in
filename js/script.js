@@ -25,6 +25,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const nav = document.querySelector('nav .container');
     const menu = document.querySelector('.menu');
     
+    // Variable to store the scroll position when menu is opened
+    let savedScrollPosition = 0;
+    
     if (nav && menu && menuToggle && menuOverlay) {
         // Function to toggle menu
         function toggleMenu() {
@@ -39,15 +42,17 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Function to open menu
         function openMenu() {
+            // Save current scroll position before any changes
+            savedScrollPosition = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+            
             menuToggle.classList.add('active');
             menu.classList.add('active');
             menuOverlay.classList.add('active');
             document.body.classList.add('menu-open');
             
-            // Store current scroll position
-            const scrollY = window.scrollY;
+            // Prevent body scroll while menu is open
             document.body.style.position = 'fixed';
-            document.body.style.top = `-${scrollY}px`;
+            document.body.style.top = `-${savedScrollPosition}px`;
             document.body.style.width = '100%';
             
             // Add focus trap for accessibility
@@ -61,12 +66,13 @@ document.addEventListener('DOMContentLoaded', function() {
             menuOverlay.classList.remove('active');
             document.body.classList.remove('menu-open');
             
-            // Restore scroll position
-            const scrollY = document.body.style.top;
+            // Restore body styles
             document.body.style.position = '';
             document.body.style.top = '';
             document.body.style.width = '';
-            window.scrollTo(0, parseInt(scrollY || '0') * -1);
+            
+            // Restore scroll position using the saved value
+            window.scrollTo(0, savedScrollPosition);
         }
         
         // Handle menu toggle click
